@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Blockchain Technologies**
 
-- 📝 My Work [meetamjad.pk](https://meetamjad.pk/projects)
+- 📝 My impacts [meetamjad.pk](https://meetamjad.pk/impacts)
 
 - 📫 How to reach me **amjadsaeedmail@gmail.com**
 
