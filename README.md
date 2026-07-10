@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Amjad Saeed</h1>
-<h3 align="center">A passionate developer from Pakistan</h3>
+<h3 align="center">A passionate software engineer from Pakistan</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meetamjadsaeed" alt="meetamjadsaeed" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain Technologies**
+- 🌱 I’m currently learning **German and Chess**
 
 - 📝 My impacts [meetamjad.pk](https://meetamjad.pk/impacts)
 
-- 📫 How to reach me **amjadsaeedmail@gmail.com**
+- 📫 How to reach me [Contact](https://meetamjad.pk/contact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
